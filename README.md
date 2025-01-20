@@ -5,7 +5,7 @@ AI injection into chrome runner game. just paste [index.js](./index.js) into the
 ## Demo Videos
 
 ![Training Thumbnail](./assets/training.png)
-[Watch the Training Video](./assets/training.mp4)
+[Download the Training Video](./assets/training.mp4)
 
 ![Running Thumbnail](./assets/running.png)
-[Watch the Running Video](./assets/running.mp4)
+[Download the Running Video](./assets/running.mp4)
