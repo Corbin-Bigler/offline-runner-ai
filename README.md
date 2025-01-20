@@ -1,9 +1,11 @@
-# Project Title
+# Offline Runner AI
 
-Description of your project.
+AI injection into chrome runner game. just paste [index.js](./index.js) into the console on the [chrome://dino](chrome://dino) page
 
-## Demo Video
+## Demo Videos
 
-You can download and watch the demo video from the repository:
+![Training Thumbnail](./assets/training.png)
+[Watch the Training Video](./assets/training.mp4)
 
-[Download the Demo Video](./training.mov)
+![Running Thumbnail](./assets/running.png)
+[Watch the Running Video](./assets/running.mp4)
